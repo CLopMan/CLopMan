@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**CLopMan/CLopMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on a [RISCV implementation](https://github.com/CLopMan/JACAA) for fpga usage
+- 🌱 Currently studying Computer Science and Engeneering at [University Carlos III of Madrid](https://www.uc3m.es/Home)
+- 🖳 Interested in competitive programming and problem solving: [¡Acepta el Reto!](https://aceptaelreto.com/user/profile.php?id=26212), [leetcode](https://leetcode.com/u/CLopMan/) and [HackerRank](https://www.hackerrank.com/profile/enanitodelyisus)
+- 💡 Love learning and taking new challenges
+- 📫 Reach me via email cesarlopman@gmail.com or [LinkedIn](https://www.linkedin.com/in/cesarlopezmantecon)
+---
+<div id="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CLopMan&show_icons=true&theme=github_dark_dimmed&bg_color=2,494b4e,2a2b2b">
+</div>
