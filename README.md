@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 Currently working at AIRBUS Defense and Space durin the MASI program internship.
+- 🌱 Currently working at AIRBUS Defense and Space during the MASI program internship.
 - 🔭 Recent Graduate in Computer Science and Engineering at[University Carlos III of Madrid](https://www.uc3m.es/Home)
 - 🖳 Interested in competitive programming and problem solving: [¡Acepta el Reto!](https://aceptaelreto.com/user/profile.php?id=26212), [leetcode](https://leetcode.com/u/CLopMan/).
 - 💡 Love learning and taking new challenges
